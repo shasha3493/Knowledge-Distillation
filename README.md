@@ -1,1 +1,1 @@
-A self Explanatory Knowledge Distillation Walkthrough
+**A Self Explanatory Walkthrough of Knowledge Distillation** 
